@@ -1,61 +1,61 @@
-DateLong,Venue,Year,ShortDate
-"February 26, 1977","Swing Auditorium, San Bernardino, CA",1977,1977-02-26
-"February 27, 1977","Robertson Gym, UC Santa Barbara, Goleta, CA",1977,1977-02-27
-"March 18, 1977","Winterland Arena, San Francisco, CA",1977,1977-03-18
-"March 19, 1977","Winterland Arena, San Francisco, CA",1977,1977-03-19
-"March 20, 1977","Winterland Arena, San Francisco, CA",1977,1977-03-20
-"April 22, 1977","The Spectrum, Philadelphia, PA",1977,1977-04-22
-"April 23, 1977","Springfield Civic Center, Springfield, MA",1977,1977-04-23
-"April 25, 1977","Capitol Theater (Late Show), Port Chester, NY",1977,1977-04-25
-"April 26, 1977","Capitol Theater (Late Show), Port Chester, NY",1977,1977-04-26
-"April 27, 1977","Capitol Theater (Late Show), Port Chester, NY",1977,1977-04-27
-"April 29, 1977","The Palladium, New York, NY",1977,1977-04-29
-"April 30, 1977","The Palladium, New York, NY",1977,1977-04-30
-"May 1, 1977","The Palladium, New York, NY",1977,1977-05-01
-"May 3, 1977","The Palladium, New York, NY",1977,1977-05-03
-"May 4, 1977","The Palladium, New York, NY",1977,1977-05-04
-"May 5, 1977","Veterans Memorial Coliseum, New Haven, CT",1977,1977-05-05
-"May 7, 1977","Boston Garden, Boston, MA",1977,1977-05-07
-"May 8, 1977","Barton Hall, Cornell University, Ithaca, NY",1977,1977-05-08
-"May 9, 1977","War Memorial Auditorium, Buffalo, NY",1977,1977-05-09
-"May 11, 1977","St. Paul Civic Center, St. Paul, MN",1977,1977-05-11
-"May 12, 1977","Auditorium Theatre, Chicago, IL",1977,1977-05-12
-"May 13, 1977","Auditorium Theatre, Chicago, IL",1977,1977-05-13
-"May 15, 1977","St. Louis Arena, St. Louis, MO",1977,1977-05-15
-"May 17, 1977","Memorial Coliseum, U. of Alabama, Tuscaloosa, AL",1977,1977-05-17
-"May 18, 1977","Fox Theater, Atlanta, GA",1977,1977-05-18
-"May 19, 1977","Fox Theater, Atlanta, GA",1977,1977-05-19
-"May 21, 1977","Lakeland Civic Center, Lakeland, FL",1977,1977-05-21
-"May 22, 1977","The Sportatorium, Pembroke Pines, FL",1977,1977-05-22
-"May 25, 1977","The Mosque, Richmond, VA",1977,1977-05-25
-"May 26, 1977","Baltimore Civic Center, Baltimore, MD",1977,1977-05-26
-"May 28, 1977","Hartford Civic Center, Hartford, CT",1977,1977-05-28
-"June 4, 1977","The Forum, Inglewood, CA",1977,1977-06-04
-"June 7, 1977","Winterland Arena, San Francisco, CA",1977,1977-06-07
-"June 8, 1977","Winterland Arena, San Francisco, CA",1977,1977-06-08
-"June 9, 1977","Winterland Arena, San Francisco, CA",1977,1977-06-09
-"September 3, 1977","Raceway Park, Englishtown, NJ",1977,1977-09-03
-"September 28, 1977","Paramount Northwest Theater, Seattle, WA",1977,1977-09-28
-"September 29, 1977","Paramount Northwest Theater, Seattle, WA",1977,1977-09-29
-"October 1, 1977","Paramount Theater, Portland, OR",1977,1977-10-01
-"October 2, 1977","Paramount Theater, Portland, OR",1977,1977-10-02
-"October 6, 1977","Activity Center. Arizona State U, Tempe, AZ",1977,1977-10-06
-"October 7, 1977","U. of New Mexico, Albuquerque, NM",1977,1977-10-07
-"October 9, 1977","McNichols Sports Arena, Denver, CO",1977,1977-10-09
-"October 11, 1977","Lloyd Noble Center, U. of Oklahoma, Norman, OK",1977,1977-10-11
-"October 12, 1977","Manor Downs, Austin, TX",1977,1977-10-12
-"October 14, 1977","Hofheinz Pavilion, Houston, TX",1977,1977-10-14
-"October 15, 1977","Moody Coliseum, S.M.U., Dallas, TX",1977,1977-10-15
-"October 16, 1977","Assembly Center, L.S.U., Baton Rouge, LA",1977,1977-10-16
-"October 28, 1977","Soldiers' and Sailors' Memorial Hall, Kansas City, KS",1977,1977-10-28
-"October 29, 1977","Field House, Northern Illinois U., De Kalb, IL",1977,1977-10-29
-"October 30, 1977","Assembly Hall, Indiana U Bloomington, IN",1977,1977-10-30
-"November 1, 1977","COBO Arena, Detroit, MI",1977,1977-11-01
-"November 2, 1977","Field House, Seneca College, Toronto, Ontario",1977,1977-11-02
-"November 4, 1977","Cotterrell Gym, Colgate U. Hamilton, NY",1977,1977-11-04
-"November 5, 1977","Community War Memorial Auditorium, Rochester, NY",1977,1977-11-05
-"November 6, 1977","Broome County Arena, Binghamton, NY",1977,1977-11-06
-"December 27, 1977","Winterland Arena, San Francisco, CA",1977,1977-12-27
-"December 29, 1977","Winterland Arena, San Francisco, CA",1977,1977-12-29
-"December 30, 1977","Winterland Arena, San Francisco, CA",1977,1977-12-30
-"December 31, 1977","Winterland Arena, San Francisco, CA",1977,1977-12-31
+"DateLong","Venue","Year","ShortDate"
+"February 26, 1977","Swing Auditorium, San Bernardino, CA",1977,"1977-02-26"
+"February 27, 1977","Robertson Gym, UC Santa Barbara, Goleta, CA",1977,"1977-02-27"
+"March 18, 1977","Winterland Arena, San Francisco, CA",1977,"1977-03-18"
+"March 19, 1977","Winterland Arena, San Francisco, CA",1977,"1977-03-19"
+"March 20, 1977","Winterland Arena, San Francisco, CA",1977,"1977-03-20"
+"April 22, 1977","The Spectrum, Philadelphia, PA",1977,"1977-04-22"
+"April 23, 1977","Springfield Civic Center, Springfield, MA",1977,"1977-04-23"
+"April 25, 1977","Capitol Theater, Passaic, NJ",1977,"1977-04-25"
+"April 26, 1977","Capitol Theater, Passaic, NJ",1977,"1977-04-26"
+"April 27, 1977","Capitol Theater, Passaic, NJ",1977,"1977-04-27"
+"April 29, 1977","The Palladium, New York, NY",1977,"1977-04-29"
+"April 30, 1977","The Palladium, New York, NY",1977,"1977-04-30"
+"May 1, 1977","The Palladium, New York, NY",1977,"1977-05-01"
+"May 3, 1977","The Palladium, New York, NY",1977,"1977-05-03"
+"May 4, 1977","The Palladium, New York, NY",1977,"1977-05-04"
+"May 5, 1977","Veterans Memorial Coliseum, New Haven, CT",1977,"1977-05-05"
+"May 7, 1977","Boston Garden, Boston, MA",1977,"1977-05-07"
+"May 8, 1977","Barton Hall, Cornell University, Ithaca, NY",1977,"1977-05-08"
+"May 9, 1977","War Memorial Auditorium, Buffalo, NY",1977,"1977-05-09"
+"May 11, 1977","St. Paul Civic Center, St. Paul, MN",1977,"1977-05-11"
+"May 12, 1977","Auditorium Theatre, Chicago, IL",1977,"1977-05-12"
+"May 13, 1977","Auditorium Theatre, Chicago, IL",1977,"1977-05-13"
+"May 15, 1977","St. Louis Arena, St. Louis, MO",1977,"1977-05-15"
+"May 17, 1977","Memorial Coliseum, U. of Alabama, Tuscaloosa, AL",1977,"1977-05-17"
+"May 18, 1977","Fox Theater, Atlanta, GA",1977,"1977-05-18"
+"May 19, 1977","Fox Theater, Atlanta, GA",1977,"1977-05-19"
+"May 21, 1977","Lakeland Civic Center, Lakeland, FL",1977,"1977-05-21"
+"May 22, 1977","The Sportatorium, Pembroke Pines, FL",1977,"1977-05-22"
+"May 25, 1977","The Mosque, Richmond, VA",1977,"1977-05-25"
+"May 26, 1977","Baltimore Civic Center, Baltimore, MD",1977,"1977-05-26"
+"May 28, 1977","Hartford Civic Center, Hartford, CT",1977,"1977-05-28"
+"June 4, 1977","The Forum, Inglewood, CA",1977,"1977-06-04"
+"June 7, 1977","Winterland Arena, San Francisco, CA",1977,"1977-06-07"
+"June 8, 1977","Winterland Arena, San Francisco, CA",1977,"1977-06-08"
+"June 9, 1977","Winterland Arena, San Francisco, CA",1977,"1977-06-09"
+"September 3, 1977","Raceway Park, Englishtown, NJ",1977,"1977-09-03"
+"September 28, 1977","Paramount Northwest Theater, Seattle, WA",1977,"1977-09-28"
+"September 29, 1977","Paramount Northwest Theater, Seattle, WA",1977,"1977-09-29"
+"October 1, 1977","Paramount Theater, Portland, OR",1977,"1977-10-01"
+"October 2, 1977","Paramount Theater, Portland, OR",1977,"1977-10-02"
+"October 6, 1977","Activity Center. Arizona State U, Tempe, AZ",1977,"1977-10-06"
+"October 7, 1977","U. of New Mexico, Albuquerque, NM",1977,"1977-10-07"
+"October 9, 1977","McNichols Sports Arena, Denver, CO",1977,"1977-10-09"
+"October 11, 1977","Lloyd Noble Center, U. of Oklahoma, Norman, OK",1977,"1977-10-11"
+"October 12, 1977","Manor Downs, Austin, TX",1977,"1977-10-12"
+"October 14, 1977","Hofheinz Pavilion, Houston, TX",1977,"1977-10-14"
+"October 15, 1977","Moody Coliseum, S.M.U., Dallas, TX",1977,"1977-10-15"
+"October 16, 1977","Assembly Center, L.S.U., Baton Rouge, LA",1977,"1977-10-16"
+"October 28, 1977","Soldiers' and Sailors' Memorial Hall, Kansas City, KS",1977,"1977-10-28"
+"October 29, 1977","Field House, Northern Illinois U., De Kalb, IL",1977,"1977-10-29"
+"October 30, 1977","Assembly Hall, Indiana U Bloomington, IN",1977,"1977-10-30"
+"November 1, 1977","COBO Arena, Detroit, MI",1977,"1977-11-01"
+"November 2, 1977","Field House, Seneca College, Toronto, Ontario",1977,"1977-11-02"
+"November 4, 1977","Cotterrell Gym, Colgate U. Hamilton, NY",1977,"1977-11-04"
+"November 5, 1977","Community War Memorial Auditorium, Rochester, NY",1977,"1977-11-05"
+"November 6, 1977","Broome County Arena, Binghamton, NY",1977,"1977-11-06"
+"December 27, 1977","Winterland Arena, San Francisco, CA",1977,"1977-12-27"
+"December 29, 1977","Winterland Arena, San Francisco, CA",1977,"1977-12-29"
+"December 30, 1977","Winterland Arena, San Francisco, CA",1977,"1977-12-30"
+"December 31, 1977","Winterland Arena, San Francisco, CA",1977,"1977-12-31"
